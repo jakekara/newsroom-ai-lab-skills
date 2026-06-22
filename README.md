@@ -30,7 +30,17 @@ Triggers when someone shares a problem statement in the format `[User] needs [ne
 📥 [Download problem-statement-coach.skill](releases/download/latest/problem-statement-coach.skill)
 
 
-## Platform-specifi cinstll steps:
+### [problem-brief-coach](./problem-brief-coach/SKILL.md)
+
+**Skill status:** Draft.
+
+Use this skill to review and give feedback on draft problem briefs from a design thinking workshop.
+
+**What it produces:** Structured feedback covering what's working, what to sharpen, section-by-section feedback, follow-up questions.
+
+📥 [Download problem-statement-coach.skill](releases/download/latest/problem-statement-coach.skill)
+
+## Platform-specific instll steps:
 
 ### Adding Skills to Claude
 
