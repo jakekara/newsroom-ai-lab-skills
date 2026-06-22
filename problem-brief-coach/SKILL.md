@@ -1,5 +1,5 @@
 ---
-name: problem-brief-feedback
+name: problem-brief-coach
 description: Use this skill to review and give feedback on draft problem briefs from a design thinking workshop. Trigger whenever someone shares a problem brief and wants coaching feedback, or when someone asks for help evaluating, refining, or improving a problem brief. Also trigger when someone mentions "problem brief review", "problem brief feedback", or shares a document with sections like problem statement, problem description, impact assessment, value proposition, stakeholders, solution criteria, or open questions.
 metadata:
   version: 0.0.1-draft
