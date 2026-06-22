@@ -17,7 +17,7 @@ but see installation steps below for platform-specific install steps.
 
 ## Available Skills
 
-### [problem-statement-feedback](./problem-statement-feedback/SKILL.md)
+### [problem-statement-coach](./problem-statement-coach/SKILL.md)
 
 **Skill status:** Draft.
 
@@ -27,7 +27,7 @@ Triggers when someone shares a problem statement in the format `[User] needs [ne
 
 **What it produces:** Structured feedback covering what's working, what to sharpen, follow-up questions, and 1–3 alternative draft statements.
 
-📥 [Download problem-statement-feedback.skill](../../releases/latest/download/problem-statement-feedback.skill)
+📥 [Download problem-statement-coach.skill](releases/download/0.0.1-draft/problem-statement-coach.skill)
 
 
 ## Platform-specifi cinstll steps:
