@@ -27,7 +27,7 @@ Triggers when someone shares a problem statement in the format `[User] needs [ne
 
 **What it produces:** Structured feedback covering what's working, what to sharpen, follow-up questions, and 1–3 alternative draft statements.
 
-📥 [Download problem-statement-coach.skill](releases/latest/download/problem-statement-coach.skill)
+📥 [Download problem-statement-coach.skill](https://github.com/jakekara/newsroom-ai-lab-skills/releases/latest/download/problem-statement-coach.skill)
 
 
 ### [problem-brief-coach](./problem-brief-coach/SKILL.md)
@@ -38,7 +38,7 @@ Use this skill to review and give feedback on draft problem briefs from a design
 
 **What it produces:** Structured feedback covering what's working, what to sharpen, section-by-section feedback, follow-up questions.
 
-📥 [Download problem-statement-coach.skill](releases/latest/download/problem-statement-coach.skill)
+📥 [Download problem-statement-coach.skill](https://github.com/jakekara/newsroom-ai-lab-skills/releases/latest/download/problem-statement-coach.skill)
 
 ## Platform-specific instll steps:
 
